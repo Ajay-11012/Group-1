@@ -82,24 +82,3 @@
 </body>
 </html>
 
-body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            background: #f4f4f4;
-            width: 90%;
-            max-width: 1000px;
-            margin: 30px auto;
-        }
-        .service {
-            background: white;
-            padding: 20px;
-            margin: 15px 0;
-            border-radius: 8px;
-            box-shadow: 0 0 8px rgba(0,0,0,0.1);
-        }
-        .service h3 {
-            margin-top: 0;
-        }
-        .service p {
-            color: #555;
-        }
