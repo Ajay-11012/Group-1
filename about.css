@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>About Us</title>
 
-    <style>
         body {
             font-family: Arial;
             background-color: #f4f4f4;
@@ -41,43 +36,4 @@
         hr {
             margin: 20px 0;
         }
-    </style>
-
-</head>
-
-<body>
-
-    <h1>About Us</h1>
-    <p>Learn more about our company</p>
-
-    <hr>
-
-    <h2>Our Story</h2>
-    <p>
-        We started our company to help people.
-        We work hard and try to give good service.
-    </p>
-
-    <h2>Our Mission</h2>
-    <p>
-        Our mission is to help customers and grow together.
-    </p>
-
-    <h2>Why Choose Us?</h2>
-    <ul>
-        <li>Good Team</li>
-        <li>Quality Work</li>
-        <li>Support Always</li>
-    </ul>
-
-    <h2>Contact</h2>
-    <p>Click below to contact us</p>
-
-    <a href="contact.html">Contact Us</a>
-
-    <hr>
-
-    <p>© 2026 Company</p>
-
-</body>
-</html>
+    
