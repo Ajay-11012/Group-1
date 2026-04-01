@@ -1,0 +1,104 @@
+
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+
+        h1 {
+            color: blue;
+        }
+
+        h2 {
+            color: darkgreen;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        ul {
+            background-color: white;
+            padding: 10px;
+        }
+
+        a {
+            color: white;
+            background-color: blue;
+            padding: 8px 12px;
+            text-decoration: none;
+        }
+
+        a:hover {
+            background-color: darkblue;
+        }
+
+        hr {
+            margin: 20px 0;
+        }
+<<<<<<< HEAD:about.css
+    
+=======
+    </style>
+
+</head>
+
+<body>
+
+    <h1>About Us</h1>
+    <p>Learn more about our company</p>
+
+    <hr>
+
+    <h2>Our Story</h2>
+    <p>
+        We started our company to help people.
+        We work hard and try to give good service.
+    </p>
+
+    <h2>Our Mission</h2>
+    <p>
+        Our mission is to help customers and grow together.
+    </p>
+
+    <h2>Why Choose Us?</h2>
+    <ul>
+        <li>Good Team</li>
+        <li>Quality Work</li>
+        <li>Support Always</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Click below to contact us</p>
+
+    <a href="contact.html">Contact Us</a>
+
+    <hr>
+
+    <p>© 2026 Company</p>
+
+</body>
+</html>
+
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f4f4;
+            width: 90%;
+            max-width: 1000px;
+            margin: 30px auto;
+        }
+        .service {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+        .service h3 {
+            margin-top: 0;
+        }
+        .service p {
+            color: #555;
+        }
+>>>>>>> 3903231ec52c2d7d232c66b8675947c6a6479229:css/about.css
